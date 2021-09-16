@@ -36,6 +36,7 @@ To provide an employee with a busy schedule the ability to add important events 
 
 ## Preview
 THe following is a screenshot of the scheduler:
+
 ![image](https://user-images.githubusercontent.com/87455097/133531812-cac3a9d3-16ab-45a4-834d-5c7a1c6075fe.png)
 
 
