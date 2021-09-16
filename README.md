@@ -42,7 +42,11 @@ This is the link of the deployed application:
 
 ## Credits
 Bootstrap: https://getbootstrap.com
+
 jQuery: https://api.jquery.com
+
 Moment.js: https://momentjs.com
+
 W3 Schools: https://wwww.w3schools.com
+
 MDN Web Docs: https://developer.mozilla.org.en-US
