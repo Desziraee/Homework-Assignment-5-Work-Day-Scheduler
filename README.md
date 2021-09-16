@@ -35,10 +35,12 @@ THEN the saved events persist
 To provide an employee with a busy schedule the ability to add important events to a daily planner so that they can manage their time more effectively.
 
 ## Preview
+THe following is a screenshot of the scheduler:
+![image](https://user-images.githubusercontent.com/87455097/133531812-cac3a9d3-16ab-45a4-834d-5c7a1c6075fe.png)
 
 
 ## Deployed Application Link
-This is the link of the deployed application:
+This is the link of the deployed application: https://desziraee.github.io/Homework-Assignment-5-Work-Day-Scheduler/
 
 ## Credits
 Bootstrap: https://getbootstrap.com
